@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mafrenchpool.github.io/site1/sitemap.xml

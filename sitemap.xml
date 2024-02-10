@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mafrenchpool.github.io/site1/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://mafrenchpool.github.io/site1/</loc>
+</url>
+<url>
+<loc>https://mafrenchpool.github.io/site1/post-1.html</loc>
+<lastmod>2024-02-10T14:20:55+01:00</lastmod>
+<image:image>
+<image:loc>https://mafrenchpool.github.io/site1/media/posts/1/273021739_112517988015067_5654018804995720906_n.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mafrenchpool.github.io/site1/post-2.html</loc>
+<lastmod>2024-02-10T14:19:07+01:00</lastmod>
+<image:image>
+<image:loc>https://mafrenchpool.github.io/site1/media/posts/2/274477637_121684483765084_68656136415153486_n.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mafrenchpool.github.io/site1/post-4.html</loc>
+<lastmod>2024-02-10T14:21:52+01:00</lastmod>
+<image:image>
+<image:loc>https://mafrenchpool.github.io/site1/media/posts/4/308027177_175331551736624_7403295341958086322_n.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mafrenchpool.github.io/site1/post4.html</loc>
+<lastmod>2024-02-10T14:21:22+01:00</lastmod>
+<image:image>
+<image:loc>https://mafrenchpool.github.io/site1/media/posts/3/277757757_133328572600675_2534191726573360578_n.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

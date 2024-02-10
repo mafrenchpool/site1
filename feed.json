@@ -1,0 +1,70 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ma french pool 2",
+    "description": "",
+    "home_page_url": "https://mafrenchpool.github.io/site1",
+    "feed_url": "https://mafrenchpool.github.io/site1/feed.json",
+    "user_comment": "",
+    "icon": "https://mafrenchpool.github.io/site1/media/website/LOGO_MFP_Lettrage_Fond_transparent.png",
+    "author": {
+        "name": "ma french pool"
+    },
+    "items": [
+        {
+            "id": "https://mafrenchpool.github.io/site1/post-4.html",
+            "url": "https://mafrenchpool.github.io/site1/post-4.html",
+            "title": "hiverner une démarche éco-responsable",
+            "image": "https://mafrenchpool.github.io/site1/media/posts/4/308027177_175331551736624_7403295341958086322_n.jpg",
+            "author": {
+                "name": "ma french pool"
+            },
+            "tags": [
+                   "Services",
+                   "Réalisations"
+            ],
+            "date_published": "2024-01-28T16:18:17+01:00",
+            "date_modified": "2024-02-10T14:21:52+01:00"
+        },
+        {
+            "id": "https://mafrenchpool.github.io/site1/post4.html",
+            "url": "https://mafrenchpool.github.io/site1/post4.html",
+            "title": "La piscine coooool",
+            "image": "https://mafrenchpool.github.io/site1/media/posts/3/277757757_133328572600675_2534191726573360578_n.jpg",
+            "author": {
+                "name": "ma french pool"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-28T16:17:29+01:00",
+            "date_modified": "2024-02-10T14:21:22+01:00"
+        },
+        {
+            "id": "https://mafrenchpool.github.io/site1/post-2.html",
+            "url": "https://mafrenchpool.github.io/site1/post-2.html",
+            "title": "Le partenaire confiance de votre piscine",
+            "image": "https://mafrenchpool.github.io/site1/media/posts/2/274477637_121684483765084_68656136415153486_n.jpg",
+            "author": {
+                "name": "ma french pool"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-28T16:17:04+01:00",
+            "date_modified": "2024-02-10T14:19:07+01:00"
+        },
+        {
+            "id": "https://mafrenchpool.github.io/site1/post-1.html",
+            "url": "https://mafrenchpool.github.io/site1/post-1.html",
+            "title": "Prestations",
+            "summary": "blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala&hellip;",
+            "content_html": "<p>blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala  </p>",
+            "image": "https://mafrenchpool.github.io/site1/media/posts/1/273021739_112517988015067_5654018804995720906_n.png",
+            "author": {
+                "name": "ma french pool"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-28T16:16:08+01:00",
+            "date_modified": "2024-02-10T14:20:55+01:00"
+        }
+    ]
+}
