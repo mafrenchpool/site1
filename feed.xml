@@ -3,7 +3,7 @@
     <title>ma french pool 2</title>
     <link href="https://mafrenchpool.github.io/site1/feed.xml" rel="self" />
     <link href="https://mafrenchpool.github.io/site1" />
-    <updated>2024-02-17T14:42:28+01:00</updated>
+    <updated>2024-02-17T14:59:00+01:00</updated>
     <author>
         <name>Ma French Pool</name>
     </author>
@@ -151,20 +151,20 @@
         </author>
         <link href="https://mafrenchpool.github.io/site1/post-1.html"/>
         <id>https://mafrenchpool.github.io/site1/post-1.html</id>
-        <media:content url="https://mafrenchpool.github.io/site1/media/posts/1/273021739_112517988015067_5654018804995720906_n.png" medium="image" />
+        <media:content url="https://mafrenchpool.github.io/site1/media/posts/1/Mascotte_Nico.png" medium="image" />
             <category term="Services"/>
             <category term="Réalisations"/>
 
-        <updated>2024-02-17T14:30:54+01:00</updated>
+        <updated>2024-02-17T14:59:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mafrenchpool.github.io/site1/media/posts/1/273021739_112517988015067_5654018804995720906_n.png" alt="" />
+                        <img src="https://mafrenchpool.github.io/site1/media/posts/1/Mascotte_Nico.png" alt="" />
                     Praesent varius, urna vel consectetur elementum, enim tellus molestie justo, et vehicula&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mafrenchpool.github.io/site1/media/posts/1/273021739_112517988015067_5654018804995720906_n.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mafrenchpool.github.io/site1/media/posts/1/Mascotte_Nico.png" class="type:primaryImage" alt="" /></p>
                 <p class="dropcap">Praesent varius, urna vel consectetur elementum, enim tellus molestie justo, et vehicula quam nulla sit amet mi. Mauris suscipit eros malesuada augue tincidunt feugiat. Cras gravida semper arcu quis imperdiet. Aliquam sollicitudin ipsum risus, in sollicitudin ipsum finibus consectetu ut.</p>
 <p> </p>
 <figure class="post__image"><img loading="lazy"  src="https://mafrenchpool.github.io/site1/media/posts/1/mfp2.jpg" alt="" width="1680" height="2000" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-xs.jpg 300w ,https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-sm.jpg 480w ,https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-md.jpg 768w ,https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-lg.jpg 1024w"></figure>
