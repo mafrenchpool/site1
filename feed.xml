@@ -3,7 +3,7 @@
     <title>ma french pool 2</title>
     <link href="https://mafrenchpool.github.io/site1/feed.xml" rel="self" />
     <link href="https://mafrenchpool.github.io/site1" />
-    <updated>2024-02-17T14:30:54+01:00</updated>
+    <updated>2024-02-17T14:42:28+01:00</updated>
     <author>
         <name>Ma French Pool</name>
     </author>
@@ -192,7 +192,7 @@
         <id>https://mafrenchpool.github.io/site1/test-1.html</id>
         <media:content url="https://mafrenchpool.github.io/site1/media/posts/5/20181107_153248_7a-cat7orespace-piscine.jpg" medium="image" />
 
-        <updated>2024-02-17T13:55:00+01:00</updated>
+        <updated>2024-02-17T14:42:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mafrenchpool.github.io/site1/media/posts/5/20181107_153248_7a-cat7orespace-piscine.jpg" alt="" />
@@ -214,6 +214,7 @@
 </blockquote>
 <p class="msg--success msg--highlight msg msg--info">Proin ultricies diam in malesuada ultrices. Vivamus porta pulvinar metus, ac pulvinar lacus cursus ut. Pellentesque vel interdum felis, sed venenatis mauris. Maecenas imperdiet orci ut felis consequat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 <p>Proin ultricies diam in malesuada ultrices. Vivamus porta pulvinar metus, ac pulvinar lacus cursus ut. Pellentesque vel interdum felis, sed venenatis mauris. Maecenas imperdiet orci ut felis consequat varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+<figure class="post__image"><img loading="lazy"  src="https://mafrenchpool.github.io/site1/media/posts/5/20181107_153346_7b-cat7argentlacoste-fils-everblue.jpg" alt="" width="640" height="480" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://mafrenchpool.github.io/site1/media/posts/5/responsive/20181107_153346_7b-cat7argentlacoste-fils-everblue-xs.jpg 300w ,https://mafrenchpool.github.io/site1/media/posts/5/responsive/20181107_153346_7b-cat7argentlacoste-fils-everblue-sm.jpg 480w ,https://mafrenchpool.github.io/site1/media/posts/5/responsive/20181107_153346_7b-cat7argentlacoste-fils-everblue-md.jpg 768w ,https://mafrenchpool.github.io/site1/media/posts/5/responsive/20181107_153346_7b-cat7argentlacoste-fils-everblue-lg.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
