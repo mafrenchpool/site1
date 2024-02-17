@@ -3,33 +3,12 @@
     <title>ma french pool 2</title>
     <link href="https://mafrenchpool.github.io/site1/feed.xml" rel="self" />
     <link href="https://mafrenchpool.github.io/site1" />
-    <updated>2024-02-16T11:54:21+01:00</updated>
+    <updated>2024-02-17T09:09:55+01:00</updated>
     <author>
         <name>ma french pool</name>
     </author>
     <id>https://mafrenchpool.github.io/site1</id>
 
-    <entry>
-        <title>TEST 1</title>
-        <author>
-            <name>ma french pool</name>
-        </author>
-        <link href="https://mafrenchpool.github.io/site1/test-1.html"/>
-        <id>https://mafrenchpool.github.io/site1/test-1.html</id>
-
-        <updated>2024-02-16T11:45:56+01:00</updated>
-            <summary>
-                <![CDATA[
-                    DZEJKCHJHJK CLEJJCZEJKL
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>DZEJKCHJHJK</p>
-<p>CLEJJCZEJKL</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Le partenaire confiance de votre piscine</title>
         <author>
@@ -103,6 +82,27 @@
                     <p><img src="https://mafrenchpool.github.io/site1/media/posts/1/273021739_112517988015067_5654018804995720906_n.png" class="type:primaryImage" alt="" /></p>
                 <p>blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala  </p>
 <figure class="post__image"><img loading="lazy"  src="https://mafrenchpool.github.io/site1/media/posts/1/mfp2.jpg" alt="" width="1680" height="2000" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-xs.jpg 300w ,https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-sm.jpg 480w ,https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-md.jpg 768w ,https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TEST 1</title>
+        <author>
+            <name>ma french pool</name>
+        </author>
+        <link href="https://mafrenchpool.github.io/site1/test-1.html"/>
+        <id>https://mafrenchpool.github.io/site1/test-1.html</id>
+
+        <updated>2024-02-17T09:09:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    DZEJKCHJHJK CLEJJCZEJKL
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>DZEJKCHJHJK</p>
+<p>CLEJJCZEJKL</p>
             ]]>
         </content>
     </entry>
