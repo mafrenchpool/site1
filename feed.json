@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://mafrenchpool.github.io/site1/test-1.html",
+            "url": "https://mafrenchpool.github.io/site1/test-1.html",
+            "title": "TEST 1",
+            "summary": "DZEJKCHJHJK CLEJJCZEJKL",
+            "content_html": "<p>DZEJKCHJHJK</p>\n<p>CLEJJCZEJKL</p>",
+            "author": {
+                "name": "ma french pool"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-16T11:45:56+01:00",
+            "date_modified": "2024-02-16T11:45:56+01:00"
+        },
+        {
             "id": "https://mafrenchpool.github.io/site1/post-2.html",
             "url": "https://mafrenchpool.github.io/site1/post-2.html",
             "title": "Le partenaire confiance de votre piscine",
@@ -29,6 +43,7 @@
             "id": "https://mafrenchpool.github.io/site1/post4.html",
             "url": "https://mafrenchpool.github.io/site1/post4.html",
             "title": "La piscine coooool",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mafrenchpool.github.io/site1/media/posts/3/mfp1.jpg\" alt=\"\" width=\"1708\" height=\"753\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mafrenchpool.github.io/site1/media/posts/3/responsive/mfp1-xs.jpg 300w ,https://mafrenchpool.github.io/site1/media/posts/3/responsive/mfp1-sm.jpg 480w ,https://mafrenchpool.github.io/site1/media/posts/3/responsive/mfp1-md.jpg 768w ,https://mafrenchpool.github.io/site1/media/posts/3/responsive/mfp1-lg.jpg 1024w\"></figure>",
             "image": "https://mafrenchpool.github.io/site1/media/posts/3/277757757_133328572600675_2534191726573360578_n.jpg",
             "author": {
                 "name": "ma french pool"
@@ -38,7 +53,7 @@
                    "Contacts"
             ],
             "date_published": "2024-02-10T16:20:00+01:00",
-            "date_modified": "2024-02-10T16:20:00+01:00"
+            "date_modified": "2024-02-16T11:53:54+01:00"
         },
         {
             "id": "https://mafrenchpool.github.io/site1/post-4.html",
@@ -60,7 +75,7 @@
             "url": "https://mafrenchpool.github.io/site1/post-1.html",
             "title": "Prestations",
             "summary": "blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala&hellip;",
-            "content_html": "<p>blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala  </p>",
+            "content_html": "<p>blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala blablabala  </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mafrenchpool.github.io/site1/media/posts/1/mfp2.jpg\" alt=\"\" width=\"1680\" height=\"2000\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-xs.jpg 300w ,https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-sm.jpg 480w ,https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-md.jpg 768w ,https://mafrenchpool.github.io/site1/media/posts/1/responsive/mfp2-lg.jpg 1024w\"></figure>",
             "image": "https://mafrenchpool.github.io/site1/media/posts/1/273021739_112517988015067_5654018804995720906_n.png",
             "author": {
                 "name": "ma french pool"
@@ -70,7 +85,7 @@
                    "Réalisations"
             ],
             "date_published": "2024-02-10T16:16:00+01:00",
-            "date_modified": "2024-02-10T16:16:00+01:00"
+            "date_modified": "2024-02-16T11:54:21+01:00"
         }
     ]
 }
